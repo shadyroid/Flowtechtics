@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Shady/AndroidStudioProjects/Flowtechtics/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Shady/AndroidStudioProjects/Flowtechtics/app/src/main/res/layout/activity_splash_screen.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Shady/AndroidStudioProjects/Flowtechtics/app/src/main/res/layout/dialog_image_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Shady/AndroidStudioProjects/Flowtechtics/app/src/main/res/layout/list_item_movie.xml" value="0.203125" />
         <entry key="..\:/Users/Shady/AndroidStudioProjects/Flowtechtics/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1455" />
       </map>
     </option>
