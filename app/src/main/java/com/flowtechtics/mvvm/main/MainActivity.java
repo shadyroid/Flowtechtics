@@ -1,8 +1,10 @@
-package com.flowtechtics;
+package com.flowtechtics.mvvm.main;
+
+import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+import com.flowtechtics.R;
 
 public class MainActivity extends AppCompatActivity {
 
